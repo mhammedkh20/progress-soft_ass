@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841793335290",
+    "project_id": "progresssoftass-d1497",
+    "storage_bucket": "progresssoftass-d1497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841793335290:android:7806c520e2950e50eebe43",
+        "android_client_info": {
+          "package_name": "com.progressSoft.ass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqCL8aYCxnIH9flGvzOse5GJ1jsOL-UwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
